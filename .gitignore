@@ -1,0 +1,6 @@
+# ignore default binaries
+a.out
+# ignore 'test' executable name
+test*
+# ignore vim tmp files
+.*.sw?
