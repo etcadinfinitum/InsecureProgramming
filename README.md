@@ -2,6 +2,12 @@
 
 [A project by gera.](http://pages.cs.wisc.edu/~riccardo/sec/)
 
+## Prerequisites
+
+### Virtual Machines
+
+Use a virtual machine. Many of the operations in the problem sset use unsafe C functions and system calls. For this problem set, [VirtualBox](https://www.virtualbox.org/) was used to run a lean installation of Debian, which is good enough for our purposes. VirtualBox is easy to use, even for novices _(ahem)_, and ensures that any experiment that might end in disaster does not affect the integrity of the host system (in this case, Fedora 29).
+
 ## Stack Exploitation
 
 ### Problem 1
